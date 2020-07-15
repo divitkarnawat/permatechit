@@ -1,0 +1,16 @@
+.section
+{
+    height: 100vh;
+    position: relative;
+    background-color: white;
+   
+}
+.typeform-widget
+{
+    position: absolute;
+    height: 400px;
+    width: 80%;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
